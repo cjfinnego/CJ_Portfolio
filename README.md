@@ -1,4 +1,4 @@
-# CJ's Portfolio
+# CJ_Portfolio
 Data Science Portfolio
 
 # [Project 1: Boston House Prediction Web App](https://github.com/cjfinnego/boston-webapp)
