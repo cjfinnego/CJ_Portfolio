@@ -1,5 +1,4 @@
-# CJ_Portfolio
-Data Science Portfolio
+# Data Science Portfolio
 
 # [Project 1: Boston House Prediction Web App](https://github.com/cjfinnego/boston-webapp)
 * Created a tool that estimates the housing prices in Boston, MA.
