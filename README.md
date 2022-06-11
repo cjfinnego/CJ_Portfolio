@@ -1,7 +1,8 @@
 Data Science Portfolio
 
-# [Project 1: Boston House Prediction Web App](https://github.com/cjfinnego/boston-webapp)
+# [Project 1: Boston House Price Prediction Web App](https://github.com/cjfinnego/boston-webapp)
 * Created a tool that estimates the housing prices in Boston, MA.
+* Website link shown in README.file on Github.com.
 
 # [Bonus Project 1: Data Science](https://github.com/cjfinnego/CJ_Portfolio)
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
