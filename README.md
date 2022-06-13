@@ -4,7 +4,7 @@ Data Science Portfolio
 * Created and deployed a tool that estimates the housing prices in Boston, MA.
 * Website link shown in README.md file on Github.com.
 
-# [Project 2: IBM Watson Speech Translator](https://github.com/cjfinnego/IBM)
+# [Project 2: IBM Watson Speech Recognition](https://github.com/cjfinnego/IBM)
 * Created a tool that translates speech from English to Spanish & from Spanish to English.
 
 # [Project 3: Breast Cancer Classification Using Neural Network](https://github.com/cjfinnego/Breast_Cancer_Classificaton)
